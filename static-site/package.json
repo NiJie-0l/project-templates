@@ -1,0 +1,9 @@
+{
+  "name": "{project_name}",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'static site, no build needed'"
+  },
+  "license": "MIT"
+}
